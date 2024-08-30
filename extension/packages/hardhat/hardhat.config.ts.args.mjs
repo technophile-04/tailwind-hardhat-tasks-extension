@@ -1,1 +1,1 @@
-export const otherImports = `import "./tasks"`;
+export const imports = `import "./tasks"`;
